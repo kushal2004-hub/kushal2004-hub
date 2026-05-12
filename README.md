@@ -1,56 +1,9 @@
-Hi, I’m Kushal Gowda H M
-Data Scientist | Generative AI & Full-Stack Developer
+# 💫 About Me:
+## Hi, I'm Kushal Gowda H M<br>**Data Scientist | Generative AI & Full-Stack Developer**<br><br>---<br><br>### About Me<br>* **Information Science student** at Maharaja Institute of Technology Mysore, specializing in Data Science and GenAI.<br>* Focused on building **AI-driven real-world systems**, specifically exploring Retrieval-Augmented Generation (RAG) and Intelligent Agents.<br>* Strong background in **data architecture and organization**, including managing large-scale datasets and cloud storage environments.<br>* **Mission:** To build intelligent, data-driven systems that solve complex business problems through automation and Generative AI.<br><br>---<br><br>### Featured Projects<br><br>* **🤖 RAG PDF Explorer**<br>    * Built an end-to-end Retrieval-Augmented Generation application to interact with PDF data.<br>    * Integrated **LangChain** and session history to maintain context in AI conversations.<br>    * Successfully deployed the application for real-time document querying.<br><br>* **📂 Automated Data Management & Cleaning**<br>    * Developed custom **Google Colab** scripts to programmatically clean and organize large-scale cloud storage.<br>    * Applied data preprocessing techniques to ensure high-quality inputs for machine learning models.<br>    * Focused on optimizing data structures for better accessibility and training efficiency.<br><br>* **📈 Predictive Modeling & Analytics**<br>    * Developed machine learning models utilizing Python’s data science ecosystem.<br>    * Experienced in building interactive dashboards with **Power BI** to visualize complex data trends and model performance.<br><br>* **🌐 Dynamic Landing Page**<br>    * Developed and deployed a responsive landing page project.<br>* Focused on clean UI/UX and seamless integration of frontend components.<br><br>---<br><br>### 🛠 Tech Stack<br><br>| Category | Tools & Languages |<br>| :--- | :--- |<br>| **Languages** | Python, SQL, JavaScript |<br>| **AI & Data Science** | Generative AI (LLMs), LangChain, Pandas, NumPy, Scikit-learn |<br>| **Tools & Cloud** | Google Colab, Git, VS Code, Docker |<br>| **Development** | Python venv, Android Dev, GitHub |<br><br>---<br><br>### 🌐 Connect With Me<br>* **💼 LinkedIn:** https://www.linkedin.com/in/kushal-hm/<br>* **📧 Email:** kushalgowdahm2004@gmail.com<br>* **🚀 GitHub:** https://github.com/kushal2004-hub<br>---<br><br>### 🧩 What I'm Currently Working On<br>* Advancing my expertise in **Data Science and GenAI** through remote internship projects.<br>* Developing **AI-powered applications** with native deployment capabilities.<br>* Optimizing **LLM workflows** for faster and more accurate retrieval systems.
 
-—
 
-**About Me**
-* Information Science student at Maharaja Institute of Technology Mysore, specializing in Data Science and GenAI.
-* Focused on building AI-driven real-world systems, specifically exploring Retrieval-Augmented Generation (RAG) and Intelligent Agents.
-* Strong background in data architecture and organization, including managing large-scale datasets and cloud storage environments.
-* Mission: To build intelligent, data-driven systems that solve complex business problems through automation and Generative AI.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-—
 
-### Featured Projects
-
-**🤖 RAG PDF Explorer**
-* Built an end-to-end Retrieval-Augmented Generation application to interact with PDF data.
-* Integrated LangChain and session history to maintain context in AI conversations.
-* Successfully deployed the application for real-time document querying.
-
-**🌟 Eduverse**
-**A modern, high-converting SaaS landing page for an online education platform.**
-
-I translated a professional SaaS wireframe into a fully responsive React application. This project highlights my ability to handle modern frontend challenges, including building custom hardware-accelerated animations from scratch and optimizing asset delivery to bypass third-party CDN restrictions.
-
-—
-
-### 🛠 Tech Stack
-
-| Category | Tools & Languages |
-| :— | :— |
-| Languages | Python, SQL, JavaScript |
-| AI & Data Science | Generative AI (LLMs), LangChain, Pandas, NumPy, Scikit-learn |
-| Tools & Cloud | Google Colab, Git, VS Code, Docker |
-| Development | Python venv, Android Dev, GitHub |
-
-—
-
-### 🌐 Connect With Me
-* 💼 LinkedIn: https://www.linkedin.com/in/kushal-hm/
-* 📧 Email: kushalgowdahm2004@gmail.com
-* 🚀 GitHub: https://github.com/kushal2004-hub
-—
-
-### 🧩 What I’m Currently Working On
-* Advancing my expertise in Data Science and GenAI through remote internship projects.
-* Developing AI-powered applications with native deployment capabilities.
-* Optimizing LLM workflows for faster and more accurate retrieval systems.
-
-  
-💻 Tech Stack:
-Python JavaScript TypeScript NodeJS React Keras Matplotlib NumPy Pandas TensorFlow Plotly PyTorch scikit-learn Git OpenCV
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
